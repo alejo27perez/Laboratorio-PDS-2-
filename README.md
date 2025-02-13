@@ -1,7 +1,9 @@
 # LAB2 PDS Convolución y Correlación 
 
 ## Introducción  
-El objetivo segunda entrega del laboratorio es crear un código en Python para analizar y entender conceptos fundamentales del Procesamiento Digital de Señales, tales como la convolución, la correlación y, además, la transformada de Fourier para el análisis en el dominio de la frecuencia.
+El objetivo de esta segunda entrega del laboratorio es implementar un código en Python para analizar y comprender conceptos fundamentales del Procesamiento Digital de Señales, tales como la convolución, la correlación y la Transformada de Fourier para el análisis en el dominio de la frecuencia. Además, se trabajará con señales fisiológicas reales, específicamente señales EEG, para realizar un análisis detallado de su comportamiento.
+
+
 
 ## Convolución 
 La primera parte del laboratorio se basa en encontrar la convolución y la representación gráfica y secuencial de un sistema h(n) y una señal x(n) utilizando sumatorias y con programando a través de Python.
